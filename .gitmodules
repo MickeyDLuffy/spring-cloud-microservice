@@ -1,0 +1,9 @@
+[submodule "order-api-sub"]
+	path = order-api-sub
+	url = https://github.com/MickeyDLuffy/order-api.git
+[submodule "payment-api"]
+	path = payment-api
+	url = https://github.com/MickeyDLuffy/payment-api.git
+[submodule "order-api"]
+	path = order-api
+	url = https://github.com/MickeyDLuffy/order-api.git
